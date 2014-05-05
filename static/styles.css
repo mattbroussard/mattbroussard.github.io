@@ -353,6 +353,9 @@ h1 span.subhead { color: #bdc3c7; }
     padding-right: 10px;
 }
 
+/* keep user from scrolling to where contact thing is */
+body { overflow-y: hidden; }
+
 .page2 #contact {
 	top: 50%;
 	margin-top: -50px;
