@@ -12,9 +12,12 @@ body {
 	padding-bottom: 20px;
 }
 
-iframe {
-	display: none;
-	visibility: hidden;
+/* mattb.name is hosted on tumblr, but we don't want the tumblr controls to show up */
+iframe#tumblr_controls, iframe#teaser_iframe {
+	display: none !important;
+	visibility: hidden !important;
+	position: absolute !important;
+	top: -100px !important;
 }
 
 body, #buttons a label {
