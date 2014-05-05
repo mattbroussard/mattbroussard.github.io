@@ -25,7 +25,10 @@ h1, h2 {
 	font-weight: normal;
 }
 
-#main h1, #main h2, #header h1, #header h2, .chunk h1, .chunk h2 {
+#main h1, #main h2,
+#header h1, #header h2,
+.chunk h1, .chunk h2,
+#contact h1, #contact h2 {
 	margin: 0;
 }
 

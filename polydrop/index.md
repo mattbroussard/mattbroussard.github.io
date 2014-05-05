@@ -8,7 +8,7 @@ slideshow:
  - image: screencap4.png
  - image: screencap5.png
 links:
- - title: Source on Github
+ - title: Source on GitHub
    url: https://github.com/mattbroussard/polydrop-game
 ---
 
