@@ -1,37 +1,11 @@
-
-<html>
-	<head>
-		<title>Pay no attention...</title>
-		<style type="text/css">
-			body {
-				font-family: palatino, georgia, times new roman, serif;
-				-webkit-user-select: none;
-				-moz-user-select: none;
-				user-select: none;
-				cursor: default;
-			}
-			div {
-				position: absolute;
-				top: 50%;
-				left: 50%;
-				width: 900px;
-				margin-left: -450px;
-				height: 150px;
-				margin-top: -75px;
-			}
-			h1, h2 {
-				text-align: center;
-				margin: 0;
-				line-height: 1em;
-			}
-			h1 {
-				font-size: 72pt;
-			}
-		</style>
-	</head>
-	<body oncontextmenu="return false;">
-		<div>
-			<h1>coming soon</h1>
-		</div>
-	</body>
-</html>
+---
+layout: hasHeader
+title: Projects
+headerTitle: Projects
+---
+{% for project in site.data.projects %}
+	{% include projectChunk.html %}
+{% endfor %}
+<div id="github_promo">
+	...or jump straight to the source on <a href="https://github.com/mattbroussard">GitHub</a>.
+</div>

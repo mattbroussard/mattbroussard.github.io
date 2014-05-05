@@ -1,0 +1,31 @@
+- name: PolyDrop
+  id: polydrop
+  date: Ongoing
+  subdate: Started February 2014
+  image: projects_hero.png
+  technologies:
+    - Java
+    - Box2D
+    - Leap Motion
+
+- name: Building Wide Intelligence Touch Kiosk UI
+  id: gdc_touch
+  date: Ongoing
+  subdate: Started March 2013
+  image: hallway_pic.jpg
+  technologies:
+    - HTML 5
+    - CSS 3
+    - JavaScript
+    - jQuery
+    - Python
+    - PHP
+    - ROS
+
+- name: Hearts
+  id: hearts
+  date: Spring 2011
+  image: projects_hero.png
+  technologies:
+    - Java
+    - Java Swing

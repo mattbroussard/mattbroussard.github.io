@@ -1,0 +1,14 @@
+
+#contact {
+	display: none;
+}
+
+#buttons a label {
+	display: block;
+}
+
+#header #buttons a label {
+	display: none !important;
+}
+
+/* unfortunately, the mobile layout is not ready yet */

@@ -1,0 +1,27 @@
+---
+layout: default
+viewport: 565
+---
+{% include homepage.html %}
+{% include contactCard.html %}
+<script type="text/javascript">
+
+	$(function() {
+
+		$("#button-contact").click(function() {
+			$("body")
+				.addClass("page2")
+				.removeClass("page1");
+			return false;
+		});
+
+		$("#contact_close").click(function() {
+			$("body")
+				.addClass("page1")
+				.removeClass("page2");
+			return false;
+		});
+
+	});
+
+</script>
