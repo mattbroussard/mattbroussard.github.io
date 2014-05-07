@@ -8,6 +8,8 @@ slideshow:
  - image: screencap4.png
  - image: screencap5.png
 links:
+ - title: Download on Airspace
+   url: https://airspace.leapmotion.com/apps/polydrop/
  - title: Source on GitHub
    url: https://github.com/mattbroussard/polydrop-game
 ---
@@ -16,7 +18,7 @@ links:
 
 PolyDrop is a simple and addicting game of catch designed to be played with a [Leap Motion Controller](http://www.leapmotion.com/).
 
-It was created by [Matt Broussard](http://mattb.name/), Josh Kelle, and Dallas Kelle at a hackathon sponsored by [Leap Motion](http://www.leapmotion.com/) and [Compare Metric](http://comparemetrics.com/) in February 2014 at Capital Factory in Austin, TX. After being selected as a finalist and ultimately winning the grand prize, we continued development of the game and were invited to bring PolyDrop to Airspace (pending review).
+It was created by [Matt Broussard](http://mattb.name/), Josh Kelle, and Dallas Kelle at a hackathon sponsored by [Leap Motion](http://www.leapmotion.com/) and [Compare Metric](http://comparemetrics.com/) in February 2014 at Capital Factory in Austin, TX. After being selected as a finalist and ultimately winning the grand prize, we continued development of the game and were invited to bring PolyDrop to Airspace.
 
 ## How to Play
 
