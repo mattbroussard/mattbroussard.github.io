@@ -230,7 +230,7 @@ a, a:visited {
 	left: 0;
 	padding: 20px;
 	font-size: 3em;
-	text-shadow: 2px 2px 5px #34495e;
+	text-shadow: 2px 2px 0 #34495e, 2px 2px 5px #34495e;
 	color: white;
 }
 
@@ -252,22 +252,23 @@ a, a:visited {
 	top: 50%;
 	margin-top: -32px;
 	height: 64px;
-	width: 64px;
+	width: 84px;
 	line-height: 64px;
 	text-align: center;
 	font-size: 0;
 	display: inline-block;
 	z-index: 500;
-	color: #ccc;
-	opacity: 0.3;
+	color: #fff;
+	opacity: 0.7;
 }
 
 .slidesjs-next { right: 0; }
 .slidesjs-previous { left: 0; }
 
-.slidesjs-navigation:after {
-	font-size: 50px;
+.slidesjs-navigation:after{
+	font-size: 55px;
 	font-family: FontAwesome;
+	text-shadow: 0 0 15px #000;
 }
 
 .slidesjs-next:after { content: '\F138'; }
