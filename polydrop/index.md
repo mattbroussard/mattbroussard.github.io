@@ -2,7 +2,7 @@
 layout: project
 title: PolyDrop
 slideshow:
- - image: projects_hero.png
+ - image: page_hero.png
  - image: screencap2.png
  - image: screencap3.png
  - image: screencap4.png
