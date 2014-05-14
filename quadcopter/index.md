@@ -23,7 +23,7 @@ Our work was supervised by [Dr. Peter Stone](http://www.cs.utexas.edu/~pstone/) 
 
 ### Wiimote
 
-The simplest and most expressive human control method uses a [Nintendo Wiimote](http://www.amazon.com/dp/B000IMWK2G) controller. The controls are bound as followed:
+The simplest and most expressive human control method uses a [Nintendo Wiimote](http://www.amazon.com/dp/B000IMWK2G) controller. The controls are bound as follows:
 
 * Accelerometer: steering and velocity control
 * D-pad: altitude
