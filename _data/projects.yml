@@ -22,6 +22,19 @@
     - PHP
     - ROS
 
+- name: GDC Quadcopter Demos
+  id: quadcopter
+  date: Spring 2014
+  subdate: Started Fall 2013
+  image: projects_hero.png
+  technologies:
+    - C++
+    - ROS
+    - Parrot ARDrone 2
+    - OpenCV
+    - CMVision
+    - Leap Motion
+
 - name: Hearts
   id: hearts
   date: Spring 2011
