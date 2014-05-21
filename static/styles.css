@@ -387,3 +387,8 @@ body.homepage { overflow-y: hidden; }
 .page1 #buttons a {
 	transition: opacity 0.05s linear;
 }
+
+.statcounter {
+	display: none !important;
+	visibility: hidden !important;
+}
