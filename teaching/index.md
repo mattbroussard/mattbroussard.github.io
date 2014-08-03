@@ -1,5 +1,5 @@
 ---
-layout: hasHeader
+layout: standard
 title: Teaching
 headerTitle: Teaching
 headerTitleLink: /teaching

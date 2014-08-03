@@ -1,5 +1,5 @@
 ---
-layout: hasHeader
+layout: standard
 title: Fall 2014 CS First-Year Pod ("CNS 101")
 headerTitle: Teaching
 headerTitleLink: /teaching

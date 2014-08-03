@@ -39,7 +39,7 @@ h1, h2 {
 	float: left;
 }
 
-div.project_head {
+.project_head {
 	display: table;
 	width: 100%;
 	border-spacing: 0;
@@ -48,7 +48,7 @@ div.project_head {
 	margin-bottom: 5px;
 }
 
-div.project_head .source_links {
+.project_head .source_links {
 	display: table-cell;
 	width: 30%;
 	text-align: right;
@@ -58,7 +58,7 @@ div.project_head .source_links {
 	vertical-align: middle;
 }
 
-div.project_head h1 {
+.project_head h1 {
 	display: table-cell;
 	width: 70%;
 	margin: 0;
@@ -66,7 +66,7 @@ div.project_head h1 {
 	padding: 0;
 }
 
-div.project_head .source_links a {
+.project_head .source_links a {
 	display: block;
 	padding: 0;
 }

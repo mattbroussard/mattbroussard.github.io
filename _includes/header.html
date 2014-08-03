@@ -1,12 +1,12 @@
 <div id="header">
 	<h1>
-		<a href="http://mattb.name/">Matt Broussard</a>{% if page.headerTitle %}:
+		<a href="http://mattb.name/">Matt Broussard</a>{% if page.headerTitle %}<span class="subhead_wrapper">:
 			{% if page.headerTitleLink %}<a href="{{ page.headerTitleLink }}">{% endif %}
 				<span class="subhead">
 					{{ page.headerTitle }}
 				</span>
 			{% if page.headerTitleLink %}</a>{% endif %}
-		{% endif %}
+		</span>{% endif %}
 	</h1>
 	{% include buttons.html %}
 	<hr class="clearfix" />
