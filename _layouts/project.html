@@ -2,6 +2,10 @@
 layout: hasHeader
 headerTitle: Projects
 headerTitleLink: /
+javascript:
+ - jquery
+ - jquery_slides
+ - project_slideshow
 ---
 <div class="project_head">
 	<h1>{{ page.title }}</h1>
@@ -20,20 +24,6 @@ headerTitleLink: /
 	{% if slide.youtube %}<object width="780" height="400"><param name="movie" value="http://www.youtube.com/v/{{ slide.youtube }}?hl=en_US&amp;version=3"></param><param name="allowFullScreen" value="true"></param><param name="allowscriptaccess" value="always"></param><embed src="http://www.youtube.com/v/{{ slide.youtube }}?hl=en_US&amp;version=3" type="application/x-shockwave-flash" width="780" height="400" allowscriptaccess="always" allowfullscreen="true"></embed></object>{% endif %}
 {% endfor %}
 </div>
-<script type="text/javascript">
-	$(function() {
-		
-		//if there's only one item, don't make a slideshow
-		if ($(".slideshow > *").length <= 1)
-			return;
-
-		$(".slideshow").slidesjs({
-			"width": 780,
-			"height": 400
-		});
-
-	});
-</script>
 
 <div class="description">
 	{{ content }}
