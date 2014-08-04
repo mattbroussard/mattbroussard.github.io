@@ -76,7 +76,7 @@ a, a:visited {
 	text-decoration: underline;
 }
 
-#header a, #header a:visited, #buttons a, a.source_link, .slideshow a, #contact a {
+#header a, #header a:visited, #buttons a, a.source_link, .slideshow a, #contact_close {
 	text-decoration: none;
 }
 
@@ -114,7 +114,7 @@ a, a:visited {
 	bottom: 2px;
 }
 
-.button-a { background-color: #2ecc71; }
+.button-a { background-color: #1ebc61; /*#2ecc71;*/ }
 .button-a:hover { background-color: #27ae60; }
 .button-a label { color: #27ae60; }
 .button-b { background-color: #3498db; }
@@ -139,11 +139,11 @@ a, a:visited {
 	display: none;
 }
 
-#buttons .button-a label { left: -110px; }
-#buttons .button-c label { left: -169px; }
+#buttons .button-a label { left: -165px; }
+#buttons .button-c label { left: -109px; }
 #buttons .button-b label { left: -228px; }
 #buttons .button-e label { left: -287px; }
-#buttons .button-d label { left: -346px; }
+#buttons .button-d label { left: -346px; } /*unused*/
 
 #buttons a:hover label { display: inline-block; }
 
@@ -285,10 +285,10 @@ h1 span.subhead { color: #bdc3c7; }
 #contact {
 	text-align: center;
 	position: absolute;
-	top: 110%/*50%*/;
+	top: 110%;
 	left: 50%;
 	margin-left: -300px;
-	margin-top: 0px/*-100px*/;
+	margin-top: 0px;
 	width: 600px;
 	height: 200px;
 	z-index: 200;
@@ -314,7 +314,7 @@ h1 span.subhead { color: #bdc3c7; }
 	display: inline-block;
 	text-indent: 0;
 	padding: 0;
-	margin-top: 40px;
+	margin-top: 25px;
 }
 
 #contact ul li {
@@ -357,13 +357,18 @@ h1 span.subhead { color: #bdc3c7; }
     padding-right: 10px;
 }
 
+.tel_link {
+	text-decoration: none;
+}
+
 /* keep user from scrolling to where contact thing is */
 body.homepage { overflow-y: hidden; }
 
 .page2 #contact {
 	top: 50%;
 	margin-top: -50px;
-	transition: top 0.15s linear, margin-top 0.15s linear;
+	opacity: 1;
+	transition: top 0.15s linear, margin-top 0.15s linear, opacity 0.08s linear;
 }
 
 .page2 #main {
@@ -373,11 +378,12 @@ body.homepage { overflow-y: hidden; }
 
 .page2 #buttons a {
 	opacity: 0;
-	transition: opacity 0.05s linear;
+	transition: opacity 0.10s linear;
 }
 
 .page1 #contact {
-	transition: top 0.15s linear, margin-top 0.15s linear;
+	opacity: 0;
+	transition: top 0.15s linear, margin-top 0.15s linear, opacity 0.08s linear;
 }
 
 .page1 #main {
@@ -385,7 +391,7 @@ body.homepage { overflow-y: hidden; }
 }
 
 .page1 #buttons a {
-	transition: opacity 0.05s linear;
+	transition: opacity 0.10s linear;
 }
 
 .statcounter {

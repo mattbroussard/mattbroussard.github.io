@@ -30,13 +30,13 @@
 }
 
 #header #buttons a {
-	width: 80px;
-	height: 80px;
-	border-radius: 40px;
-	font-size: 40px;
-	line-height: 80px;
-	margin-left: 15px;
-	margin-right: 15px;
+	width: 90px;
+	height: 90px;
+	border-radius: 45px;
+	font-size: 45px;
+	line-height: 90px;
+	margin-left: 20px;
+	margin-right: 20px;
 }
 
 .description h2, .description h3, .description h4, .description h5, .description h6 {
@@ -117,16 +117,114 @@
 	content: '';
 }
 
-/* homepage/contact */
+/* homepage */
 
-/** pending **/
+#main {
+	position: relative;
+	display: block;
+	text-align: center;
+	top: 0;
+	left: 0;
+	margin-top: 30px;
+	margin-left: 0;
+	width: auto;
+	font-size: 220%;
+	padding-left: 25px;
+	padding-right: 25px;
+}
 
-/* old rules, maybe defunct after new layout? */
+#main #buttons a {
+	width: 250px;
+	height: 250px;
+	border-radius: 125px;
+	margin: 25px;
+	font-size: 100px;
+	line-height: 200px;
+}
 
-#buttons a label {
+#main #buttons a label {
+	display: block;
+	color: white;
+	font-size: 30pt;
+	width: 100%;
+	left: 0;
+	margin: 0;
+	line-height: 30pt;
+	top: 160px;
+}
+
+/* contact card */
+
+#contact, .page2 #contact, .page1 #contact {
+	position: absolute;
+	top: 250px;
+	opacity: 1;
+	margin-top: 0;
+	height: auto;
+	background: transparent;
+	box-shadow: none;
+	transition: none;
+	font-size: 200%;
+}
+
+#contact, .page1 #contact {
+	left: -100%;
+	transition: left 0.15s linear;
+}
+
+.page2 #contact {
+	left: 50%;
+	transition: left 0.15s linear;
+}
+
+.page2 #main, .page1 #main {
+	margin-top: 30px;
+	transition: none;
+}
+
+#contact img {
+	width: 450px;
+	height: 450px;
+	float: none;
+	box-shadow: 0 0 50px #7f8c8d;
+}
+
+/* such a hack */
+#contact img { position: relative; top: 120px; }
+#contact h2, #contact .message { position: relative; top: -500px; }
+
+#contact .message {
+    padding: 0;
+}
+
+#contact ul {
+	width: auto;
 	display: block;
 }
 
-#contact {
-	display: none;
+#contact ul li {
+	font-size: 35pt;
+	margin-bottom: 5px;
+}
+
+#contact ul li i {
+	font-size: 25pt;
+	margin-right: 20px;
+}
+
+.tel_link {
+	text-decoration: underline;
+}
+
+#contact_close {
+	font-size: 70px;
+	width: 70px;
+	height: 70px;
+	top: 50%;
+	margin-top: -35px;
+	left: -35px;
+}
+
+#contact_close:before {
+	content: "\f0a8" !important;
 }

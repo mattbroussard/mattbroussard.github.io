@@ -8,13 +8,37 @@
 		<li>
 			<!-- other characters in here to discourage spam -->
 			<i class="fa fa-envelope"></i>
-			&#109;&#97;&#116;&#116;&#98;<b>+nospam</b>&#64;&#99;&#115;&#46;<b>nospam.</b>&#117;&#116;&#101;&#120;&#97;&#115;&#46;<b>nospam.</b>&#101;&#100;&#117;
+			<span id="email">&#109;&#97;&#116;&#116;&#98;<b>+nospam</b>&#64;&#99;&#115;&#46;<b>nospam.</b>&#117;&#116;&#101;&#120;&#97;&#115;&#46;<b>nospam.</b>&#101;&#100;&#117;</span>
 		</li>
 		<li>
 			<!-- other characters in here to discourage spam -->
 			<i class="fa fa-phone"></i>
-			&#53;<b>7</b>&#49;<b>9</b>&#50;<b>9</b>&#46;<b>0</b>&#54;<b>4</b>&#51;<b>6</b>&#53;<b>3</b>&#46;&#57;&#53;<b>2</b>&#56;&#56;<b>1</b>
+			<span id="phone">&#53;<b>7</b>&#49;<b>9</b>&#50;<b>9</b>&#46;<b>0</b>&#54;<b>4</b>&#51;<b>6</b>&#53;<b>3</b>&#46;&#57;&#53;<b>2</b>&#56;&#56;<b>1</b></span>
+		</li>
+		<li>
+			<i class="fa fa-linkedin"></i>
+			<a href="http://mattb.name/linkedin">Connect on LinkedIn</a>
 		</li>
 	</ul>
 	<a class="fa fa-times-circle" id="contact_close" href="/"></a>
 </div>
+<script type="text/javascript">
+// replace obfuscated phone and email with links
+(function() {
+	var email = document.getElementById("email");
+	var email_text = email.innerText.trim();
+	var email_a = document.createElement("a");
+	email_a.setAttribute("href", "mailto:"+email_text);
+	email_a.innerText = email_text;
+	email.parentNode.replaceChild(email_a, email);
+
+	var phone = document.getElementById("phone");
+	var phone_text = phone.innerText.trim();
+	var phone_num = phone_text.replace(".", "").replace(".", "");
+	var phone_a = document.createElement("a");
+	phone_a.setAttribute("href", "tel:"+phone_num);
+	phone_a.className = "tel_link";
+	phone_a.innerText = phone_text;
+	phone.parentNode.replaceChild(phone_a, phone);
+})();
+</script>
