@@ -5,7 +5,9 @@
 	</a>
 	<div class="description">
 		<h3>{{ project.date }}</h3>
-		<h4>{{ project.subdate }}</h4>
+		{% if project.subdate %}
+			<h4>{{ project.subdate }}</h4>
+		{% endif %}
 		<ul>
 			{% for tech in project.technologies %}
 			<li>{{ tech }}</li>
