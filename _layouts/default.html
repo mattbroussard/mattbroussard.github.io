@@ -12,17 +12,17 @@
 	{% if page.viewport %}
 		<meta name="viewport" content="width={{ page.viewport }}" />
 	{% endif %}
-	<link rel="icon" href="{{ site.baseurl }}static/favicon.ico" />
+	<link rel="icon" href="/static/favicon.ico" />
 	<link href="http://netdna.bootstrapcdn.com/font-awesome/4.0.3/css/font-awesome.css" rel="stylesheet" />
 	<link href="http://fonts.googleapis.com/css?family=EB+Garamond" rel="stylesheet" type="text/css" />
-	<link href="{{ site.baseurl }}static/styles.css" rel="stylesheet" type="text/css" />
-	<link href="{{ site.baseurl }}static/mobile.css" rel="stylesheet" media="screen and (max-device-width: 480px)" type="text/css" />
+	<link href="/static/styles.css" rel="stylesheet" type="text/css" />
+	<link href="/static/mobile.css" rel="stylesheet" media="screen and (max-device-width: 480px)" type="text/css" />
 	{% for key in page.javascript %}
 		{% assign path = site.data.javascript[key] %}
 		{% if path contains 'http' %}
 			<script src="{{ path }}" type="text/javascript"></script>
 		{% else %}
-			<script src="{{ site.baseurl }}static/{{ path }}" type="text/javascript"></script>
+			<script src="/static/{{ path }}" type="text/javascript"></script>
 		{% endif %}
 	{% endfor %}
 </head>
