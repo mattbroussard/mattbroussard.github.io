@@ -3,3 +3,4 @@ author: Matthew Broussard
 author_email: mattb@cs.utexas.edu
 encoding: utf-8
 markdown: kramdown
+base-url: http://projects.mattb.name/
