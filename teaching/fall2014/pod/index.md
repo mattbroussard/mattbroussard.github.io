@@ -33,7 +33,7 @@ Here is a rough list of topics we'll be talking about (in no order). As the seme
 - Various useful topics not typically covered in CS classes
 - ...more!
 
-In addition to the topics we cover in our weekly meetings, we'll 
+In addition to the topics we cover in our weekly meetings, we'll be having fun social events throughout the semester.
 
 ### Useful Links
 
