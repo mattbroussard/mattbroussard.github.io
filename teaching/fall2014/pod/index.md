@@ -52,4 +52,6 @@ In addition to the topics we cover in our weekly meetings, we'll be having fun s
   - **3:30-5pm** - Gone to CS
   - **6-8pm** - Gone to Natural Sciences (CNS)
   - **8:30-9:30pm** - [Gone to Texas](http://events.utexas.edu/gtt)
-- **September 18** - [Career Fair](http://cns.utexas.edu/career-design-center/career-events/career-fairs)
+- **September 15, 10:30am** - [Crush Your Coding Interview Workshop & Breakfast](https://www.facebook.com/events/753179881410384/) sponsored by Facebook
+- **September 18, 8-10:30am** - FoCS Career Brunch
+- **September 18, 1-6pm** - [Career Fair](http://cns.utexas.edu/career-design-center/career-events/career-fairs) ([employers list](https://cns.utexas.edu/images/CNS/Career_Design_Center/PDFs/Fall_2014_EXPO_Registration_082814.pdf))
