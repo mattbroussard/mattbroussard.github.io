@@ -17,7 +17,7 @@ Meets **Tuesdays, 4-5pm in [GDC](http://www.utexas.edu/maps/main/buildings/gdc.h
 ### Communications
 
 Please request to join the [Facebook group](https://www.facebook.com/groups/622145304569459/). Note that you need a <tt>@utexas.edu</tt> email address to join. It's easy and quick to get one, just go [here](https://get.utmail.utexas.edu/). If you don't have a Facebook or don't want to join the group, I'll also be sending out this information via email, but generally Facebook is a nicer way to disseminate information less formally.
-
+p
 Feel free to [email](http://mattb.name/contact) or Facebook message me anytime with questions or concerns. You can also contact our CNS Lead Facilitator, [Chelsea Weitekamp](mailto:chelseaweitekamp@gmail.com).
 
 ### Topics Overview
@@ -52,6 +52,37 @@ In addition to the topics we cover in our weekly meetings, we'll be having fun s
   - **3:30-5pm** - Gone to CS
   - **6-8pm** - Gone to Natural Sciences (CNS)
   - **8:30-9:30pm** - [Gone to Texas](http://events.utexas.edu/gtt)
-- **September 15, 10:30am** - [Crush Your Coding Interview Workshop & Breakfast](https://www.facebook.com/events/753179881410384/) sponsored by Facebook
-- **September 18, 8-10:30am** - FoCS Career Brunch
+- **September 10, 10am-4pm** - CNS Resumania (GDC Atrium)
+- **September 18, 8-10:30am** - FoCS Career Brunch (invitation only, check your email)
 - **September 18, 1-6pm** - [Career Fair](http://cns.utexas.edu/career-design-center/career-events/career-fairs) ([employers list](https://cns.utexas.edu/images/CNS/Career_Design_Center/PDFs/Fall_2014_EXPO_Registration_082814.pdf))
+
+### Company Events
+
+**Important:** This list is only a few upcoming highlights. For many more company events, see the [CS department calendar](http://www.cs.utexas.edu/calendar/) and the [CNS Career Services events page](https://www.facebook.com/cnscareers/events).
+
+- **September 3, 6:30pm** - Google: Tech Talk (GDC 2.216, [event page](https://www.facebook.com/events/1520578448172154/), RSVP [here](http://goo.gl/NAtKhM))
+- **September 4, 3pm** - AthenaHealth: Brain Freeze (GDC Atrium)
+- **September 4, 7:30pm** - Microsoft: MAD/WICS Coding Competition (GDC 1.304, [event page](https://www.facebook.com/events/1492135614366790/))
+- **September 6, 4pm** - VMWare: UT Tailgating Social (GDC Atrium)
+- **September 10, 9am-1pm** - Qualcomm: Company Day (GDC Atrium)
+- **September 10, 6pm** - HP: Tech Talk (GDC 2.216)
+- **September 11, 12pm** - Blackbaud: "Evaluating Your Job Offer" talk (GDC 6.302, [event page](http://www.cs.utexas.edu/events/53377))
+- **September 11, 6pm** - Bloomberg: Tech Talk (GDC 4.304)
+- **September 12, 9:30am** - VMWare: Rise and Dine Breakfast (GDC Atrium)
+- **September 15, 10:30am** - Facebook: Crush Your Coding Interview Workshop & Breakfast (GDC 6.302, [event page](https://www.facebook.com/events/753179881410384/))
+- **September 15, 6:30pm-9:30pm** - Apple: Talk & Reception (GDC 2.216)
+- **September 15, 7pm** - Microsoft: ELA Fall Kickoff (GDC 6.302)
+- **September 16, 4:30pm** - Salesforce: Info Session & Tech Talk (GDC 6.302)
+- **September 16, 6:30pm** - Blackbaud: Tech Talk (GDC 5.302)
+- **September 17, 5:30pm** - Yelp: Info Session (BUR 116, [event page](https://www.facebook.com/events/699242440124992/))
+- **September 17, 7pm-9pm** - Microsoft: Info Session (GDC 2.216, [event page](http://www.cs.utexas.edu/events/53130))
+- **September 18, 5:30pm** - ExxonMobil: Info Session (BUR 116, [event page](https://www.facebook.com/events/271164159735025/))
+- **September 18, 7pm** - IBM: Info Session (BUR 112, [event page](https://www.facebook.com/events/1442652739353995/))
+- **September 19, 1:30pm-6pm** - Apple: Networking Event (GDC Atrium)
+- **September 22, 5:30pm-7:30pm** - Dropbox: Tech Talk (GDC 2.216)
+- **September 25, 7pm** - AT&T: Info Session (BUR 112, [event page](https://www.facebook.com/events/791089997609579/))
+- **October 2, 6pm** - Blackbaud: Super Smash Bros Social (GDC Atrium)
+- **October 3, 3pm** - Blackbaud: Brain Freeze (GDC Atrium)
+- **October 6, 7pm** - VMWare: Info Session (BUR 116, [event page](https://www.facebook.com/events/323133501182488/))
+- **October 16, 4:30pm** - Twitter: Info Session (BUR 108, [event page](https://www.facebook.com/events/822302691113764/))
+- **November 6, 3pm** - RetailMeNot: Brain Freeze
