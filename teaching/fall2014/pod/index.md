@@ -58,6 +58,8 @@ In addition to the topics we cover in our weekly meetings, we'll be having fun s
 
 ### Company Events
 
+Companies frequently hold events for UTCS students in order to increase awareness of their company and recruit for internship and full-time positions. Many of these events will have free food and swag. I recommend going to as many of these as possible with copies of your résumé in order to learn about opportunities at these companies and network with recruiters.
+
 **Important:** This list is only a few upcoming highlights. For many more company events, see the [CS department calendar](http://www.cs.utexas.edu/calendar/) and the [CNS Career Services events page](https://www.facebook.com/cnscareers/events).
 
 - **September 3, 6:30pm** - Google: Tech Talk (GDC 2.216, [event page](https://www.facebook.com/events/1520578448172154/), RSVP [here](http://goo.gl/NAtKhM))
@@ -85,4 +87,4 @@ In addition to the topics we cover in our weekly meetings, we'll be having fun s
 - **October 3, 3pm** - Blackbaud: Brain Freeze (GDC Atrium)
 - **October 6, 7pm** - VMWare: Info Session (BUR 116, [event page](https://www.facebook.com/events/323133501182488/))
 - **October 16, 4:30pm** - Twitter: Info Session (BUR 108, [event page](https://www.facebook.com/events/822302691113764/))
-- **November 6, 3pm** - RetailMeNot: Brain Freeze
+- **November 6, 3pm** - RetailMeNot: Brain Freeze (GDC Atrium)
