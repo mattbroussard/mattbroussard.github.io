@@ -20,6 +20,8 @@ Please request to join the [Facebook group](https://www.facebook.com/groups/6221
 p
 Feel free to [email](http://mattb.name/contact) or Facebook message me anytime with questions or concerns. You can also contact our CNS Lead Facilitator, [Chelsea Weitekamp](mailto:chelseaweitekamp@gmail.com).
 
+<!--
+
 ### Topics Overview
 
 Here is a rough list of topics we'll be talking about (in no order). As the semester goes on, this list will get more detailed.
@@ -34,6 +36,28 @@ Here is a rough list of topics we'll be talking about (in no order). As the seme
 - ...more!
 
 In addition to the topics we cover in our weekly meetings, we'll be having fun social events throughout the semester.
+
+-->
+
+### Schedule
+
+Here is a tentative schedule for what we'll be covering each week. Note that this is subject to change at any time and that the schedule has flexibility to reduce the coverage of topics students are already familiar with and add coverage of new topics students express interest in.
+
+- **Week 1 (No Meeting):** Welcome to UTCS!
+- **Week 2 (September 2):** Using the CS Labs and Department Resources
+- **Week 3 (September 9):** Résumés and Making the Most of the Career Fair
+- **Week 4 (September 16):** Meet the Faculty
+- **Week 5 (September 23):** Interviewing, Negotiation, and Choosing an Offer
+- **Week 6 (September 30):** Building Software Effectively: Source Control and Other Tools
+- **Week 7 (October 7):** Debugging and Testing
+- **Week 8 (October 14):** Group Advising or [TACC VisLab](https://www.tacc.utexas.edu/resources/visualization) Tour
+- **Week 9 (October 21):** Group Advising or [TACC VisLab](https://www.tacc.utexas.edu/resources/visualization) Tour
+- **Week 10 (October 28):** TBD
+- **Week 11 (November 4):** Taking Advantage of Academic Opportunities
+- **Week 12 (November 11):** TBD
+- **Week 13 (November 18):** TBD (Tentatively, "Preparing for Finals")
+- **Week 14 (No Meeting):** Thanksgiving Week -- optional social event TBD
+- **Week 15 (December 2):** Wrapping Up
 
 ### Useful Links
 
