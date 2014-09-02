@@ -76,6 +76,7 @@ Here is a tentative schedule for what we'll be covering each week. Note that thi
   - **3:30-5pm** - Gone to CS
   - **6-8pm** - Gone to Natural Sciences (CNS)
   - **8:30-9:30pm** - [Gone to Texas](http://events.utexas.edu/gtt)
+- **September 3, 10am-5pm** - Party on the Plaza (Gregory Gym Plaza) - this is a great way to learn about student clubs and organizations at UT
 - **September 10, 10am-4pm** - CNS Resumania (GDC Atrium)
 - **September 18, 8-10:30am** - FoCS Career Brunch (invitation only, check your email)
 - **September 18, 1-6pm** - [Career Fair](http://cns.utexas.edu/career-design-center/career-events/career-fairs) ([employers list](https://cns.utexas.edu/images/CNS/Career_Design_Center/PDFs/Fall_2014_EXPO_Registration_082814.pdf))
