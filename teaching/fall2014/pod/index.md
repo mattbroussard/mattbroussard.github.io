@@ -18,6 +18,8 @@ Meets **Tuesdays, 4-5pm in [GDC](http://www.utexas.edu/maps/main/buildings/gdc.h
 
 Please request to join the [Facebook group](https://www.facebook.com/groups/622145304569459/). Note that you need a <tt>@utexas.edu</tt> email address to join. It's easy and quick to get one, just go [here](https://get.utmail.utexas.edu/). If you don't have a Facebook or don't want to join the group, I'll also be sending out this information via email, but generally Facebook is a nicer way to disseminate information less formally.
 
+Please also fill out the [Google Form](http://mattb.name/podform) so we can get some basic info about you.
+
 Feel free to [email](http://mattb.name/contact) or Facebook message me anytime with questions or concerns. You can also contact our CNS Lead Facilitator, [Chelsea Weitekamp](mailto:chelseaweitekamp@gmail.com).
 
 <!--
@@ -44,7 +46,7 @@ In addition to the topics we cover in our weekly meetings, we'll be having fun s
 Here is a tentative schedule for what we'll be covering each week. Note that this is subject to change at any time and that the schedule has flexibility to reduce the coverage of topics students are already familiar with and add coverage of new topics students express interest in.
 
 - **Week 1 (No Meeting):** Welcome to UTCS!
-- **Week 2 (September 2):** Using the CS Labs and Department Resources
+- **Week 2 (September 2):** Using the CS Labs and Department Resources ([slides](https://docs.google.com/presentation/d/1370n8KaJPFKTku85wZPCNVswi2rAKkR_JkSw53BR9Fc/edit?usp=sharing), [rough outline](https://docs.google.com/a/utexas.edu/document/d/1sgBhcgLTqmgTcpwvfVmfjIFxIzSl5s79QOai1kzuFgc/edit))
 - **Week 3 (September 9):** Résumés and Making the Most of the Career Fair
 - **Week 4 (September 16):** Meet the Faculty
 - **Week 5 (September 23):** Interviewing, Negotiation, and Choosing an Offer
