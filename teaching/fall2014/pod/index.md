@@ -17,7 +17,7 @@ Meets **Tuesdays, 4-5pm in [GDC](http://www.utexas.edu/maps/main/buildings/gdc.h
 ### Communications
 
 Please request to join the [Facebook group](https://www.facebook.com/groups/622145304569459/). Note that you need a <tt>@utexas.edu</tt> email address to join. It's easy and quick to get one, just go [here](https://get.utmail.utexas.edu/). If you don't have a Facebook or don't want to join the group, I'll also be sending out this information via email, but generally Facebook is a nicer way to disseminate information less formally.
-p
+
 Feel free to [email](http://mattb.name/contact) or Facebook message me anytime with questions or concerns. You can also contact our CNS Lead Facilitator, [Chelsea Weitekamp](mailto:chelseaweitekamp@gmail.com).
 
 <!--
