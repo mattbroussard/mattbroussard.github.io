@@ -81,6 +81,7 @@ Here is a tentative schedule for what we'll be covering each week. Note that thi
 - **September 18, 8-10:30am** - FoCS Career Brunch (invitation only, check your email)
 - **September 18, 1-6pm** - [Career Fair](http://cns.utexas.edu/career-design-center/career-events/career-fairs) ([employers list](https://cns.utexas.edu/images/CNS/Career_Design_Center/PDFs/Fall_2014_EXPO_Registration_082814.pdf))
 - **October 18-19** - [HackTX](http://hacktx.com/), the biggest hackathon in Texas. Registration is now open!
+
 ### Company Events
 
 Companies frequently hold events for UTCS students in order to increase awareness of their company and recruit for internship and full-time positions. Many of these events will have free food and swag. I recommend going to as many of these as possible with copies of your résumé in order to learn about opportunities at these companies and network with recruiters.
