@@ -89,6 +89,8 @@ Companies frequently hold events for UTCS students in order to increase awarenes
 
 **Important:** This list is only a few upcoming highlights. For many more company events, see the [CS department calendar](http://www.cs.utexas.edu/calendar/) and the [CNS Career Services events page](https://www.facebook.com/cnscareers/events).
 
+**Another very important note**: You should consider RSVPs binding obligations to attend, particularly with exclusive space-limited events like the Apple dinner. Companies spend time and money on planning, catering, and space reservations and it's important to respect commitments you make to attend. It reflects poorly on us all if you don't.
+
 - **September 3, 6:30pm** - Google: Tech Talk (GDC 2.216, [event page](https://www.facebook.com/events/1520578448172154/), RSVP [here](http://goo.gl/NAtKhM))
 - **September 4, 3pm** - AthenaHealth: Brain Freeze (GDC Atrium)
 - **September 4, 7:30pm** - Microsoft: MAD/WICS Coding Competition (GDC 1.304, [event page](https://www.facebook.com/events/1492135614366790/))
@@ -102,6 +104,7 @@ Companies frequently hold events for UTCS students in order to increase awarenes
 - **September 15, 6:30pm-9:30pm** - Apple: Talk & Reception (GDC 2.216)
 - **September 15, 7pm** - Microsoft: ELA Fall Kickoff (GDC 6.302)
 - **September 16, 4:30pm** - Salesforce: Info Session & Tech Talk (GDC 6.302)
+- **September 16, 5-7pm** - Apple: Turing Scholars Dinner ([Second Kitchen](http://congressaustin.com/second/), [RSVP](https://docs.google.com/forms/d/1UPVwz7FLbWx9QF3jykI4yNwpFH0SFuIInHAaiGO7fko/viewform) required by 9/9, Turing Scholars ONLY!)
 - **September 16, 6:30pm** - Blackbaud: Tech Talk (GDC 5.302)
 - **September 17, 5:30pm** - Yelp: Info Session (BUR 116, [event page](https://www.facebook.com/events/699242440124992/))
 - **September 17, 7pm-9pm** - Microsoft: Info Session (GDC 2.216, [event page](http://www.cs.utexas.edu/events/53130))
