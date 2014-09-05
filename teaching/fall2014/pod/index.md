@@ -107,7 +107,7 @@ Companies frequently hold events for UTCS students in order to increase awarenes
 - **September 16, 4:30pm** - Salesforce: Info Session & Tech Talk (GDC 6.302)
 - **September 16, 5-7pm** - Apple: Turing Scholars Dinner ([Second Kitchen](http://congressaustin.com/second/), [RSVP](https://docs.google.com/forms/d/1UPVwz7FLbWx9QF3jykI4yNwpFH0SFuIInHAaiGO7fko/viewform) required by 9/9, Turing Scholars ONLY!)
 - **September 16, 6:30pm** - Blackbaud: Tech Talk (GDC 5.302)
-- **September 17, 5:30pm** - Yelp: Info Session (BUR 116, [event page](https://www.facebook.com/events/699242440124992/))
+- **September 17, 5:30pm** - Yelp: Tech Talk (BUR 116, [event page](https://www.facebook.com/events/795355387198773/))
 - **September 17, 7pm-9pm** - Microsoft: Info Session (GDC 2.216, [event page](http://www.cs.utexas.edu/events/53130))
 - **September 18, 5:30pm** - ExxonMobil: Info Session (BUR 116, [event page](https://www.facebook.com/events/271164159735025/))
 - **September 18, 7pm** - IBM: Info Session (BUR 112, [event page](https://www.facebook.com/events/1442652739353995/))
