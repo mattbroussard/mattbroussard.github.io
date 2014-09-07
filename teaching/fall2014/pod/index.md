@@ -110,6 +110,7 @@ Companies frequently hold events for UTCS students in order to increase awarenes
 - **September 17, 5:30pm** - Yelp: Tech Talk (BUR 116, [event page](https://www.facebook.com/events/795355387198773/))
 - **September 17, 7pm-9pm** - Microsoft: Info Session (GDC 2.216, [event page](http://www.cs.utexas.edu/events/53130))
 - **September 18, 5:30pm** - ExxonMobil: Info Session (BUR 116, [event page](https://www.facebook.com/events/271164159735025/))
+- **September 18, 5:30pm** - Square: Info Session (BUR 216, [event page](https://www.facebook.com/events/1475661886051066/))
 - **September 18, 7pm** - IBM: Info Session (BUR 112, [event page](https://www.facebook.com/events/1442652739353995/))
 - **September 19, 1:30pm-6pm** - Apple: Networking Event (GDC Atrium)
 - **September 22, 5:30pm-7:30pm** - Dropbox: Tech Talk (GDC 2.216)
