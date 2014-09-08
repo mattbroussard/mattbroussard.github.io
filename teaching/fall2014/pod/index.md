@@ -97,7 +97,7 @@ Companies frequently hold events for UTCS students in order to increase awarenes
 - **September 6, 4pm** - VMWare: UT Tailgating Social (GDC Atrium)
 - **September 10, 9am-1pm** - Qualcomm: Company Day (GDC Atrium)
 - **September 10, 6pm** - HP: Tech Talk (GDC 2.216)
-- **September 10, time TBA** - Quallcomm: Blazer Tag Social ([Blazer Tag](http://www.blazertag.com/), [RSVP](https://docs.google.com/forms/d/1-VrqAimYl6ZTkNVu1XD5vjhtCxjDqfDp7eIx6Q1SJBE/viewform) required, Turing only)
+- **September 10, time TBA** - Qualcomm: Blazer Tag Social ([Blazer Tag](http://www.blazertag.com/), [RSVP](https://docs.google.com/forms/d/1-VrqAimYl6ZTkNVu1XD5vjhtCxjDqfDp7eIx6Q1SJBE/viewform) required, Turing only)
 - **September 11, 12pm** - Blackbaud: "Evaluating Your Job Offer" talk (GDC 6.302, [event page](http://www.cs.utexas.edu/events/53377))
 - **September 11, 6pm** - Bloomberg: Tech Talk (GDC 4.304)
 - **September 12, 9:30am** - VMWare: Rise and Dine Breakfast (GDC Atrium)
