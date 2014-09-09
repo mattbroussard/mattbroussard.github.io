@@ -47,7 +47,7 @@ Here is a tentative schedule for what we'll be covering each week. Note that thi
 
 - **Week 1 (No Meeting):** Welcome to UTCS!
 - **Week 2 (September 2):** Using the CS Labs and Department Resources ([slides](https://docs.google.com/presentation/d/1370n8KaJPFKTku85wZPCNVswi2rAKkR_JkSw53BR9Fc/edit?usp=sharing), [rough outline](https://docs.google.com/a/utexas.edu/document/d/1sgBhcgLTqmgTcpwvfVmfjIFxIzSl5s79QOai1kzuFgc/edit))
-- **Week 3 (September 9):** Résumés and Making the Most of the Career Fair
+- **Week 3 (September 9):** Résumés and Making the Most of the Career Fair ([slides](https://docs.google.com/presentation/d/1oOhYVgQJ2NR6zJ6jlbQPNVOqdkzbY9yw1ElXn-J7OVM/edit?usp=sharing))
 - **Week 4 (September 16):** Meet the Faculty
 - **Week 5 (September 23):** Interviewing, Negotiation, and Choosing an Offer
 - **Week 6 (September 30):** Building Software Effectively: Source Control and Other Tools
@@ -80,6 +80,9 @@ Here is a tentative schedule for what we'll be covering each week. Note that thi
   - **8:30-9:30pm** - [Gone to Texas](http://events.utexas.edu/gtt)
 - **September 3, 10am-5pm** - Party on the Plaza (Gregory Gym Plaza) - this is a great way to learn about student clubs and organizations at UT
 - **September 10, 10am-4pm** - CNS Resumania (GDC Atrium)
+- **September 11, 10am-4pm** - CNS Walk-In Résume Review (PAI 5.03)
+- **September 15, 7:30pm** - Turing Pizza Night Social (GDC 5.302, [event page](https://www.facebook.com/events/332404850269313/))
+- **September 15 & 17** - Rohan and Jaime's Mock Interview Office Hours ([RSVP here](http://www.wejoinin.com/sheets/rleii))
 - **September 18, 1-6pm** - [Career Fair](http://cns.utexas.edu/career-design-center/career-events/career-fairs) ([employers list](https://cns.utexas.edu/images/CNS/Career_Design_Center/PDFs/Fall_2014_EXPO_Registration_082814.pdf))
 - **October 18-19** - [HackTX](http://hacktx.com/), the biggest hackathon in Texas. Registration is now open!
 
@@ -97,14 +100,16 @@ Companies frequently hold events for UTCS students in order to increase awarenes
 - **September 6, 4pm** - VMWare: UT Tailgating Social (GDC Atrium)
 - **September 10, 9am-1pm** - Qualcomm: Company Day (GDC Atrium)
 - **September 10, 6pm** - HP: Tech Talk (GDC 2.216)
-- **September 10, time TBA** - Qualcomm: Blazer Tag Social ([Blazer Tag](http://www.blazertag.com/), [RSVP](https://docs.google.com/forms/d/1-VrqAimYl6ZTkNVu1XD5vjhtCxjDqfDp7eIx6Q1SJBE/viewform) required, Turing only)
+- **September 10, 6:15pm** - Qualcomm: Blazer Tag Social ([Blazer Tag](http://www.blazertag.com/), [RSVP](https://docs.google.com/forms/d/1-VrqAimYl6ZTkNVu1XD5vjhtCxjDqfDp7eIx6Q1SJBE/viewform) required, [event page](https://www.facebook.com/events/260366494159026/), Turing only)
 - **September 11, 12pm** - Blackbaud: "Evaluating Your Job Offer" talk (GDC 6.302, [event page](http://www.cs.utexas.edu/events/53377))
+- **September 11, 5:30pm** - Qualcomm: “Landing Your Dream Job” Talk (GEA 105)
 - **September 11, 6pm** - Bloomberg: Tech Talk (GDC 4.304)
 - **September 12, 9:30am** - VMWare: Rise and Dine Breakfast (GDC Atrium)
 - **September 15, 10:30am** - Facebook: Crush Your Coding Interview Workshop & Breakfast (GDC 6.302, [event page](https://www.facebook.com/events/753179881410384/))
 - **September 15, 6:30pm-9:30pm** - Apple: Talk & Reception (GDC 2.216)
 - **September 15, 7pm** - Microsoft: ELA Fall Kickoff (GDC 6.302)
 - **September 16, 4:30pm** - Salesforce: Info Session & Tech Talk (GDC 6.302)
+- **September 16, 5:30pm** - Proctor & Gamble: “How To Work a Career Fair” Talk (WEL 1.308)
 - **September 16, 5-7pm** - Apple: Turing Scholars Dinner ([Second Kitchen](http://congressaustin.com/second/), [RSVP](https://docs.google.com/forms/d/1UPVwz7FLbWx9QF3jykI4yNwpFH0SFuIInHAaiGO7fko/viewform) required by 9/9, Turing Scholars ONLY!)
 - **September 16, 6:30pm** - Blackbaud: Tech Talk (GDC 5.302)
 - **September 17, 5:30pm** - Yelp: Tech Talk (BUR 116, [event page](https://www.facebook.com/events/795355387198773/))
@@ -113,6 +118,7 @@ Companies frequently hold events for UTCS students in order to increase awarenes
 - **September 18, 5:30pm** - Square: Info Session (BUR 216, [event page](https://www.facebook.com/events/1475661886051066/))
 - **September 18, 7pm** - IBM: Info Session (BUR 112, [event page](https://www.facebook.com/events/1442652739353995/))
 - **September 19, 1:30pm-6pm** - Apple: Networking Event (GDC Atrium)
+- **September 19, 6-9pm** - Indeed: ACM-ICPC Coding Competition (GDC 1.304)
 - **September 22, 5:30pm-7:30pm** - Dropbox: Tech Talk (GDC 2.216)
 - **September 25, 7pm** - AT&T: Info Session (BUR 112, [event page](https://www.facebook.com/events/791089997609579/))
 - **October 2, 6pm** - Blackbaud: Super Smash Bros Social (GDC Atrium)
