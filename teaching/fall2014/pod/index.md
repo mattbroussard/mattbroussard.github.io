@@ -48,13 +48,13 @@ Here is a tentative schedule for what we'll be covering each week. Note that thi
 - **Week 1 (No Meeting):** Welcome to UTCS!
 - **Week 2 (September 2):** Using the CS Labs and Department Resources ([slides](https://docs.google.com/presentation/d/1370n8KaJPFKTku85wZPCNVswi2rAKkR_JkSw53BR9Fc/edit?usp=sharing), [rough outline](https://docs.google.com/a/utexas.edu/document/d/1sgBhcgLTqmgTcpwvfVmfjIFxIzSl5s79QOai1kzuFgc/edit))
 - **Week 3 (September 9):** Résumés and Making the Most of the Career Fair ([slides](https://docs.google.com/presentation/d/1oOhYVgQJ2NR6zJ6jlbQPNVOqdkzbY9yw1ElXn-J7OVM/edit?usp=sharing))
-- **Week 4 (September 16):** Meet the Faculty
+- **Week 4 (September 16):** Guest Lecture: Dr. Calvin Lin (meet **3:30pm** in **POB 2.402**)
 - **Week 5 (September 23):** Interviewing, Negotiation, and Choosing an Offer
 - **Week 6 (September 30):** Building Software Effectively: Source Control and Other Tools
 - **Week 7 (October 7):** Debugging and Testing
-- **Week 8 (October 14):** Group Advising or [TACC VisLab](https://www.tacc.utexas.edu/resources/visualization) Tour
-- **Week 9 (October 21):** Group Advising or [TACC VisLab](https://www.tacc.utexas.edu/resources/visualization) Tour
-- **Week 10 (October 28):** TBD
+- **Week 8 (October 14):** [TACC VisLab](https://www.tacc.utexas.edu/resources/visualization) Tour
+- **Week 9 (October 21):** TBD
+- **Week 10 (October 28):** Group Advising for Spring 2015 with [Doug Roberts](mailto:doug.roberts@austin.utexas.edu)
 - **Week 11 (November 4):** Taking Advantage of Academic Opportunities
 - **Week 12 (November 11):** TBD
 - **Week 13 (November 18):** TBD (Tentatively, "Preparing for Finals")
@@ -84,7 +84,8 @@ Here is a tentative schedule for what we'll be covering each week. Note that thi
 - **September 15, 7:30pm** - Turing Pizza Night Social (GDC 5.302, [event page](https://www.facebook.com/events/332404850269313/))
 - **September 15 & 17** - Rohan and Jaime's Mock Interview Office Hours ([RSVP here](http://www.wejoinin.com/sheets/rleii))
 - **September 18, 1-6pm** - [Career Fair](http://cns.utexas.edu/career-design-center/career-events/career-fairs) ([employers list](https://cns.utexas.edu/images/CNS/Career_Design_Center/PDFs/Fall_2014_EXPO_Registration_082814.pdf))
-- **October 18-19** - [HackTX](http://hacktx.com/), the biggest hackathon in Texas. Registration is now open!
+- **September 20, 3pm** - [Turing Kickoff Picnic](https://www.facebook.com/events/1464474467173677/)
+- **October 18-19** - [HackTX](http://hacktx.com/), the biggest hackathon in Texas.
 
 ### Company Events
 
@@ -117,10 +118,11 @@ Companies frequently hold events for UTCS students in order to increase awarenes
 - **September 18, 5:30pm** - ExxonMobil: Info Session (BUR 116, [event page](https://www.facebook.com/events/271164159735025/))
 - **September 18, 5:30pm** - Square: Info Session (BUR 216, [event page](https://www.facebook.com/events/1475661886051066/))
 - **September 18, 7pm** - IBM: Info Session (BUR 112, [event page](https://www.facebook.com/events/1442652739353995/))
-- **September 19, 1:30pm-6pm** - Apple: Networking Event (GDC Atrium)
+- **September 19, 11:30am-3:30pm** - Apple: Networking Event (NHB 1.720)
 - **September 19, 6-9pm** - Indeed: ACM-ICPC Coding Competition (GDC 1.304)
-- **September 22, 5:30pm-7:30pm** - Dropbox: Tech Talk (GDC 2.216)
+- **September 22, 6pm-7pm** - Dropbox: "High-Performance Mobile Engineering" Tech Talk (GDC 2.216, [event page](https://www.facebook.com/events/276348272575928/))
 - **September 25, 7pm** - AT&T: Info Session (BUR 112, [event page](https://www.facebook.com/events/791089997609579/))
+- **September 26, 3pm** - Google: "Sweet 16" Cookie Social (GDC Atrium, [event page](https://www.facebook.com/events/1541750906059466/))
 - **October 2, 6pm** - Blackbaud: Super Smash Bros Social (GDC Atrium)
 - **October 3, 3pm** - Blackbaud: Brain Freeze (GDC Atrium)
 - **October 6, 7pm** - VMWare: Info Session (BUR 116, [event page](https://www.facebook.com/events/323133501182488/))
