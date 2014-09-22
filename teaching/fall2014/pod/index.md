@@ -49,10 +49,10 @@ Here is a tentative schedule for what we'll be covering each week. Note that thi
 - **Week 2 (September 2):** Using the CS Labs and Department Resources ([slides](https://docs.google.com/presentation/d/1370n8KaJPFKTku85wZPCNVswi2rAKkR_JkSw53BR9Fc/edit?usp=sharing), [rough outline](https://docs.google.com/a/utexas.edu/document/d/1sgBhcgLTqmgTcpwvfVmfjIFxIzSl5s79QOai1kzuFgc/edit))
 - **Week 3 (September 9):** Résumés and Making the Most of the Career Fair ([slides](https://docs.google.com/presentation/d/1oOhYVgQJ2NR6zJ6jlbQPNVOqdkzbY9yw1ElXn-J7OVM/edit?usp=sharing))
 - **Week 4 (September 16):** Guest Lecture: Dr. Calvin Lin (meet **3:30pm** in **POB 2.402**)
-- **Week 5 (September 23):** Interviewing, Negotiation, and Choosing an Offer
-- **Week 6 (September 30):** Building Software Effectively: Source Control and Other Tools
+- **Week 5 (September 23):** Interviewing, Negotiation, and Choosing an Offer ([slides](https://docs.google.com/presentation/d/14NFFyqLUa9D1Yzh09Ig76rkLxp_VP2_Z71WAlIjT-co/edit?usp=sharing))
+- **Week 6 (September 30):** TBD (previously *Building Software Effectively: Source Control and Other Tools*) <!-- 311H midterm 10/2 -->
 - **Week 7 (October 7):** Debugging and Testing
-- **Week 8 (October 14):** [TACC VisLab](https://www.tacc.utexas.edu/resources/visualization) Tour
+- **Week 8 (October 14):** [TACC VisLab](https://www.tacc.utexas.edu/resources/visualization) Tour <!-- 314H midterm 10/16 -->
 - **Week 9 (October 21):** TBD
 - **Week 10 (October 28):** Group Advising for Spring 2015 with [Doug Roberts](mailto:doug.roberts@austin.utexas.edu)
 - **Week 11 (November 4):** Taking Advantage of Academic Opportunities
@@ -123,6 +123,7 @@ Companies frequently hold events for UTCS students in order to increase awarenes
 - **September 22, 6pm-7pm** - Dropbox: "High-Performance Mobile Engineering" Tech Talk (GDC 2.216, [event page](https://www.facebook.com/events/276348272575928/))
 - **September 25, 7pm** - AT&T: Info Session (BUR 112, [event page](https://www.facebook.com/events/791089997609579/))
 - **September 26, 3pm** - Google: "Sweet 16" Cookie Social (GDC Atrium, [event page](https://www.facebook.com/events/1541750906059466/))
+- **September 30, 5pm** - Palantir: Info Session (GDC 6.302)
 - **October 2, 6pm** - Blackbaud: Super Smash Bros Social (GDC Atrium)
 - **October 3, 3pm** - Blackbaud: Brain Freeze (GDC Atrium)
 - **October 6, 7pm** - VMWare: Info Session (BUR 116, [event page](https://www.facebook.com/events/323133501182488/))
