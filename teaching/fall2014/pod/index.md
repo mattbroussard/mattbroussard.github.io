@@ -50,7 +50,7 @@ Here is a tentative schedule for what we'll be covering each week. Note that thi
 - **Week 3 (September 9):** Résumés and Making the Most of the Career Fair ([slides](https://docs.google.com/presentation/d/1oOhYVgQJ2NR6zJ6jlbQPNVOqdkzbY9yw1ElXn-J7OVM/edit?usp=sharing))
 - **Week 4 (September 16):** Guest Lecture: Dr. Calvin Lin (meet **3:30pm** in **POB 2.402**)
 - **Week 5 (September 23):** Interviewing, Negotiation, and Choosing an Offer ([slides](https://docs.google.com/presentation/d/14NFFyqLUa9D1Yzh09Ig76rkLxp_VP2_Z71WAlIjT-co/edit?usp=sharing))
-- **Week 6 (September 30):** Guest Lecture: Rose Simmons (meet in **POB 2.402**) - "Midterm Prep & Upper Division CS Classes" <!-- 311H midterm 10/2 -->
+- **Week 6 (September 30):** Guest Lecture: Rose Simmons (meet in <strike>POB 2.402</strike> **our normal room, GDC 2.410**) - "Midterm Prep & Upper Division CS Classes" <!-- 311H midterm 10/2 -->
 - **Week 7 (October 7):** Building Software Effectively: Source Control and Other Tools
 - **Week 8 (October 14):** [TACC VisLab](https://www.tacc.utexas.edu/resources/visualization) Tour <!-- 314H midterm 10/16 -->
 - **Week 9 (October 21):** Debugging and Testing
