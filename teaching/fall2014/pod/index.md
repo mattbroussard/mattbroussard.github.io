@@ -86,6 +86,7 @@ Here is a tentative schedule for what we'll be covering each week. Note that thi
 - **September 18, 1-6pm** - [Career Fair](http://cns.utexas.edu/career-design-center/career-events/career-fairs) ([employers list](https://cns.utexas.edu/images/CNS/Career_Design_Center/PDFs/Fall_2014_EXPO_Registration_082814.pdf))
 - **September 20, 3pm** - [Turing Kickoff Picnic](https://www.facebook.com/events/1464474467173677/)
 - **October 18-19** - [HackTX](http://hacktx.com/), the biggest hackathon in Texas.
+- **October 22, 7pm** - Internship Student Panel with WiCS (GDC 6.302, [event page](https://www.facebook.com/events/1499749770278022/)) - hear student perspectives on internships at a variety of companies. I'll be there to talk about my experiences at Facebook and Tableau Software.
 
 ### Company Events
 
@@ -127,5 +128,11 @@ Companies frequently hold events for UTCS students in order to increase awarenes
 - **October 2, 6pm** - Blackbaud: Super Smash Bros Social (GDC Atrium)
 - **October 3, 3pm** - Blackbaud: Brain Freeze (GDC Atrium)
 - **October 6, 7pm** - VMWare: Info Session (BUR 116, [event page](https://www.facebook.com/events/323133501182488/))
+- **October 8, 8pm** - Tubular Labs: Turing Dinner (GDC 6.302, [RSVP](https://docs.google.com/forms/d/1untk7C6tEfCp2P4cewX0VXOG5MtG7J2iLZSSv4mcMps/viewform) required, [event page](https://www.facebook.com/events/1536973289851460/))
+- **October 9, 8pm** - Tubular Labs: Bowling and Billiards (Union Underground, [event page](https://www.facebook.com/events/1557733591113262/))
+- **October 15, 6pm** - Khan Academy: Tech Talk (GDC 2.216, [RSVP](http://goo.gl/3xCBtd) required, [event page](https://www.facebook.com/events/1537141253190061/), sponsored by WiCS)
 - **October 16, 4:30pm** - Twitter: Info Session (BUR 108, [event page](https://www.facebook.com/events/822302691113764/))
+- **October 23, 11am** - CIA: WiCS Luncheon (GDC 2.104, [RSVP](https://docs.google.com/forms/d/1otjoq6fviysY2KplvTOwDU4ukNjg7A8G0wiJMkRKnhc/viewform?usp=send_form) required, [event page](https://www.facebook.com/events/1531950963686100/))
+- **October 27, 4:30pm** - Square: Roundtable Q&A with Product Engineering Lead Gokul Rajaram (GDC 6.302, [event page](https://www.facebook.com/events/1493714344214193/), sponsored by WiCS)
+- **November 4, 6:30pm** - Facebook: Tech Talk with Global Head of Diversity (GDC 6.302, [event page](https://www.facebook.com/events/733830080029419/), sponsored by WiCS and ELA)
 - **November 6, 3pm** - RetailMeNot: Brain Freeze (GDC Atrium)
