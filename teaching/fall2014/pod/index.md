@@ -51,7 +51,7 @@ Here is a tentative schedule for what we'll be covering each week. Note that thi
 - **Week 4 (September 16):** Guest Lecture: Dr. Calvin Lin (meet **3:30pm** in **POB 2.402**)
 - **Week 5 (September 23):** Interviewing, Negotiation, and Choosing an Offer ([slides](https://docs.google.com/presentation/d/14NFFyqLUa9D1Yzh09Ig76rkLxp_VP2_Z71WAlIjT-co/edit?usp=sharing))
 - **Week 6 (September 30):** Guest Lecture: Rose Simmons (meet in <strike>POB 2.402</strike> **our normal room, GDC 2.410**) - "Midterm Prep & Upper Division CS Classes" <!-- 311H midterm 10/2 -->
-- **Week 7 (October 7):** Building Software Effectively: Source Control and Other Tools
+- **Week 7 (October 7):** Building Software Effectively: Source Control and Other Tools ([slides](https://docs.google.com/presentation/d/1987CvI0hroSKljUPZ-PzCyidcCs8Mns5qE1Sp1IgvaQ/edit?usp=sharing))
 - **Week 8 (October 14):** [TACC VisLab](https://www.tacc.utexas.edu/resources/visualization) Tour <!-- 314H midterm 10/16 -->
 - **Week 9 (October 21):** Debugging and Testing
 - **Week 10 (October 28):** Group Advising for Spring 2015 with [Doug Roberts](mailto:doug.roberts@austin.utexas.edu)
@@ -86,6 +86,7 @@ Here is a tentative schedule for what we'll be covering each week. Note that thi
 - **September 18, 1-6pm** - [Career Fair](http://cns.utexas.edu/career-design-center/career-events/career-fairs) ([employers list](https://cns.utexas.edu/images/CNS/Career_Design_Center/PDFs/Fall_2014_EXPO_Registration_082814.pdf))
 - **September 20, 3pm** - [Turing Kickoff Picnic](https://www.facebook.com/events/1464474467173677/)
 - **October 18-19** - [HackTX](http://hacktx.com/), the biggest hackathon in Texas.
+- **October 16, 5pm** - CS Areas of Interest Info Session (Location TBD) -- this is a good way to learn about different areas of specialization in CS, such as AI, graphics, compilers, architecture, networking, security, etc.
 - **October 22, 7pm** - Internship Student Panel with WiCS (GDC 6.302, [event page](https://www.facebook.com/events/1499749770278022/)) - hear student perspectives on internships at a variety of companies. I'll be there to talk about my experiences at Facebook and Tableau Software.
 
 ### Company Events
@@ -128,9 +129,14 @@ Companies frequently hold events for UTCS students in order to increase awarenes
 - **October 2, 6pm** - Blackbaud: Super Smash Bros Social (GDC Atrium)
 - **October 3, 3pm** - Blackbaud: Brain Freeze (GDC Atrium)
 - **October 6, 7pm** - VMWare: Info Session (BUR 116, [event page](https://www.facebook.com/events/323133501182488/))
+- **October 8, 9am-3pm** - Fujitsu: Company Day (GDC Atrium)
 - **October 8, 8pm** - Tubular Labs: Turing Dinner (GDC 6.302, [RSVP](https://docs.google.com/forms/d/1untk7C6tEfCp2P4cewX0VXOG5MtG7J2iLZSSv4mcMps/viewform) required, [event page](https://www.facebook.com/events/1536973289851460/))
+- **October 9, 6pm** - Tubular Labs: Tech Talk (GDC 5.302)
 - **October 9, 8pm** - Tubular Labs: Bowling and Billiards (Union Underground, [event page](https://www.facebook.com/events/1557733591113262/))
+- **October 14, 6pm** - Sandia Labs: Tech Talk (GDC 6.302)
+- **October 14, 6pm** - IBM Watson: Ice Cream Social (GDC 2.104, sponsored by WiCS)
 - **October 15, 6pm** - Khan Academy: Tech Talk (GDC 2.216, [RSVP](http://goo.gl/3xCBtd) required, [event page](https://www.facebook.com/events/1537141253190061/), sponsored by WiCS)
+- **October 16, 1pm** - Bloomberg: Tech Talk (GDC 6.302)
 - **October 16, 4:30pm** - Twitter: Info Session (BUR 108, [event page](https://www.facebook.com/events/822302691113764/))
 - **October 23, 11am** - CIA: WiCS Luncheon (GDC 2.104, [RSVP](https://docs.google.com/forms/d/1otjoq6fviysY2KplvTOwDU4ukNjg7A8G0wiJMkRKnhc/viewform?usp=send_form) required, [event page](https://www.facebook.com/events/1531950963686100/))
 - **October 27, 4:30pm** - Square: Roundtable Q&A with Product Engineering Lead Gokul Rajaram (GDC 6.302, [event page](https://www.facebook.com/events/1493714344214193/), sponsored by WiCS)
