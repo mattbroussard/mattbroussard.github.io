@@ -137,7 +137,6 @@ Companies frequently hold events for UTCS students in order to increase awarenes
 - **October 14, 6pm** - IBM Watson: Ice Cream Social (GDC 2.104, sponsored by WiCS)
 - **October 15, 6pm** - Khan Academy: Tech Talk (GDC 2.216, [RSVP](http://goo.gl/3xCBtd) required, [event page](https://www.facebook.com/events/1537141253190061/), sponsored by WiCS)
 - **October 16, 1pm** - Bloomberg: Tech Talk (GDC 6.302)
-- **October 16, 4:30pm** - Twitter: Info Session (BUR 108, [event page](https://www.facebook.com/events/822302691113764/))
 - **October 23, 11am** - CIA: WiCS Luncheon (GDC 2.104, [RSVP](https://docs.google.com/forms/d/1otjoq6fviysY2KplvTOwDU4ukNjg7A8G0wiJMkRKnhc/viewform?usp=send_form) required, [event page](https://www.facebook.com/events/1531950963686100/))
 - **October 27, 4:30pm** - Square: Roundtable Q&A with Product Engineering Lead Gokul Rajaram (GDC 6.302, [event page](https://www.facebook.com/events/1493714344214193/), sponsored by WiCS)
 - **November 4, 6:30pm** - Facebook: Tech Talk with Global Head of Diversity (GDC 6.302, [event page](https://www.facebook.com/events/733830080029419/), sponsored by WiCS and ELA)
