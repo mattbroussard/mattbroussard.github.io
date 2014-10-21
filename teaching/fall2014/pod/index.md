@@ -53,7 +53,7 @@ Here is a tentative schedule for what we'll be covering each week. Note that thi
 - **Week 6 (September 30):** Guest Lecture: Rose Simmons (meet in <strike>POB 2.402</strike> **our normal room, GDC 2.410**) - "Midterm Prep & Upper Division CS Classes" <!-- 311H midterm 10/2 -->
 - **Week 7 (October 7):** Building Software Effectively: Source Control and Other Tools ([slides](https://docs.google.com/presentation/d/1987CvI0hroSKljUPZ-PzCyidcCs8Mns5qE1Sp1IgvaQ/edit?usp=sharing))
 - **Week 8 (October 14):** [TACC VisLab](https://www.tacc.utexas.edu/resources/visualization) Tour <!-- 314H midterm 10/16 -->
-- **Week 9 (October 21):** Debugging and Testing
+- **Week 9 (October 21):** Debugging and Testing ([slides](https://docs.google.com/presentation/d/1kbW60gmShb0KJDchdLxdkEYe-tUiDoW1Etvchs3jFCo/edit?usp=sharing))
 - **Week 10 (October 28):** Group Advising for Spring 2015 with [Doug Roberts](mailto:doug.roberts@austin.utexas.edu)
 - **Week 11 (November 4):** Taking Advantage of Academic Opportunities
 - **Week 12 (November 11):** TBD
