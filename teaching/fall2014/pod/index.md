@@ -54,7 +54,7 @@ Here is a tentative schedule for what we'll be covering each week. Note that thi
 - **Week 7 (October 7):** Building Software Effectively: Source Control and Other Tools ([slides](https://docs.google.com/presentation/d/1987CvI0hroSKljUPZ-PzCyidcCs8Mns5qE1Sp1IgvaQ/edit?usp=sharing))
 - **Week 8 (October 14):** [TACC VisLab](https://www.tacc.utexas.edu/resources/visualization) Tour <!-- 314H midterm 10/16 -->
 - **Week 9 (October 21):** Debugging and Testing ([slides](https://docs.google.com/presentation/d/1kbW60gmShb0KJDchdLxdkEYe-tUiDoW1Etvchs3jFCo/edit?usp=sharing))
-- **Week 10 (October 28):** Group Advising for Spring 2015 with [Doug Roberts](mailto:doug.roberts@austin.utexas.edu)
+- **Week 10 (October 28):** Group Advising for Spring 2015 with [Doug Roberts](mailto:doug.roberts@austin.utexas.edu) (meet at **3:30pm** in **GDC 6.302**)
 - **Week 11 (November 4):** Taking Advantage of Academic Opportunities
 - **Week 12 (November 11):** TBD
 - **Week 13 (November 18):** TBD (Tentatively, "Preparing for Finals")
