@@ -55,8 +55,8 @@ Here is a tentative schedule for what we'll be covering each week. Note that thi
 - **Week 8 (October 14):** [TACC VisLab](https://www.tacc.utexas.edu/resources/visualization) Tour <!-- 314H midterm 10/16 -->
 - **Week 9 (October 21):** Debugging and Testing ([slides](https://docs.google.com/presentation/d/1kbW60gmShb0KJDchdLxdkEYe-tUiDoW1Etvchs3jFCo/edit?usp=sharing))
 - **Week 10 (October 28):** Group Advising for Spring 2015 with [Doug Roberts](mailto:doug.roberts@austin.utexas.edu) (meet at **3:30pm** in **GDC 6.302**)
-- **Week 11 (November 4):** Taking Advantage of Academic Opportunities
-- **Week 12 (November 11):** TBD
+- **Week 11 (November 4):** Guest Lecture: Rose Simmons (meet in same room) <!-- Taking Advantage of Academic Opportunities -->
+- **Week 12 (November 11):** TBD (Tentatively, "Taking Advantage of Academic Opportunities")
 - **Week 13 (November 18):** TBD (Tentatively, "Preparing for Finals")
 - **Week 14 (No Meeting):** Thanksgiving Week -- optional social event TBD
 - **Week 15 (December 2):** Wrapping Up
@@ -139,5 +139,5 @@ Companies frequently hold events for UTCS students in order to increase awarenes
 - **October 16, 1pm** - Bloomberg: Tech Talk (GDC 6.302)
 - **October 23, 11am** - CIA: WiCS Luncheon (GDC 2.104, [RSVP](https://docs.google.com/forms/d/1otjoq6fviysY2KplvTOwDU4ukNjg7A8G0wiJMkRKnhc/viewform?usp=send_form) required, [event page](https://www.facebook.com/events/1531950963686100/))
 - **October 27, 4:30pm** - Square: Roundtable Q&A with Product Engineering Lead Gokul Rajaram (GDC 6.302, [event page](https://www.facebook.com/events/1493714344214193/), sponsored by WiCS)
-- **November 4, 6:30pm** - Facebook: Tech Talk with Global Head of Diversity (GDC 6.302, [event page](https://www.facebook.com/events/733830080029419/), sponsored by WiCS and ELA)
+- **November 4, 6:30pm** - **CANCELLED:** Facebook: Tech Talk with Global Head of Diversity (GDC 6.302, [event page](https://www.facebook.com/events/733830080029419/), sponsored by WiCS and ELA)
 - **November 6, 3pm** - RetailMeNot: Brain Freeze (GDC Atrium)
