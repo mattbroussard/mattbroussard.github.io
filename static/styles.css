@@ -317,7 +317,7 @@ h1 span.subhead { color: #bdc3c7; }
 	display: inline-block;
 	text-indent: 0;
 	padding: 0;
-	margin-top: 25px;
+	margin-top: 10px; /* previously 25px, needed to be smaller for longer 2016 message */
 }
 
 #contact ul li {
@@ -358,6 +358,7 @@ h1 span.subhead { color: #bdc3c7; }
 #contact .message {
     padding-left: 210px;
     padding-right: 10px;
+    font-size: 85%; /* needed for longer 2016 message */
 }
 
 .tel_link {

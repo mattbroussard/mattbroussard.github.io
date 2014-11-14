@@ -200,11 +200,28 @@
 }
 
 /* such a hack */
-#contact img { position: relative; top: 120px; }
-#contact h2, #contact .message { position: relative; top: -500px; }
+#contact img {
+
+	position: relative;
+	top: 210px;
+
+}
+
+/* such a hack */
+#contact h2, #contact .message {
+
+	position: relative;
+	top: -500px;
+
+}
 
 #contact .message {
     padding: 0;
+    font-size: 100%; /* for longer 2016 message, desktop layout makes this 85% */
+    
+    /* more hackiness for the longer 2016 message */
+    width: 110%;
+    left: -5%;
 }
 
 #contact ul {
