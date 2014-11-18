@@ -57,8 +57,8 @@ Here is a tentative schedule for what we'll be covering each week. Note that thi
 - **Week 10 (October 28):** Group Advising for Spring 2015 with [Doug Roberts](mailto:doug.roberts@austin.utexas.edu) (meet at **3:30pm** in **GDC 6.302**)
 - **Week 11 (November 4):** Guest Lecture: Rose Simmons (meet in same room) <!-- Taking Advantage of Academic Opportunities -->
 - **Week 12 (November 11):** Taking Advantage of Academic Opportunities ([slides](https://docs.google.com/presentation/d/1-P5xOamOgp7c3zZXYenax7tDe7ukc8qYuoDH6hZFwyA/edit?usp=sharing))
-- **Week 13 (November 18):** TBD (Tentatively, "Preparing for Finals")
-- **Week 14 (No Meeting):** Thanksgiving Week -- optional social event TBD
+- **Week 13 (November 18):** Preparing for Finals + Upper Division CS Classes ([slides](https://docs.google.com/a/utexas.edu/presentation/d/1_Dxy9AMBsUEQHsBdg5gHZaVUHVsWj0LQdbSo_CwyHNQ/edit?usp=sharing))
+- **Week 14 (No Meeting):** Thanksgiving Week
 - **Week 15 (December 2):** Wrapping Up
 
 ### Useful Links
