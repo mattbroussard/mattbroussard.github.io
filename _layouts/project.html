@@ -22,6 +22,7 @@ javascript:
 {% for slide in page.slideshow %}
 	{% if slide.image %}<img src="{{ slide.image }}" />{% endif %}
 	{% if slide.youtube %}<object width="780" height="400"><param name="movie" value="http://www.youtube.com/v/{{ slide.youtube }}?hl=en_US&amp;version=3"></param><param name="allowFullScreen" value="true"></param><param name="allowscriptaccess" value="always"></param><embed src="http://www.youtube.com/v/{{ slide.youtube }}?hl=en_US&amp;version=3" type="application/x-shockwave-flash" width="780" height="400" allowscriptaccess="always" allowfullscreen="true"></embed></object>{% endif %}
+	{% if slide.html5 %}<video width="780" height="400" autoplay="autoplay" {% if slide.thumbnail %}poster="{{ slide.thumbnail }}" {% endif %}loop><source src="{{ slide.html5 }}"{% if slide.format%} type="{{ slide.format }}"{% endif %}></video>{% endif %}
 {% endfor %}
 </div>
 
