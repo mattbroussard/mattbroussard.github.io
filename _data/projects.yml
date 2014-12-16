@@ -34,6 +34,13 @@
     - CMVision
     - Leap Motion
 
+- name: Tetris AI
+  id: tetris
+  date: Fall 2012
+  image: projects_hero.png
+  technologies:
+    - Java
+
 - name: Hearts
   id: hearts
   date: Spring 2011
