@@ -9,7 +9,7 @@ slideshow:
 
 ## About
 
-For Dr. [Calvin Lin](http://www.cs.utexas.edu/~lin/)'s **Data Structures and Algorithms: Honors** class, I built a simple reflex agent that plays Tetris by computing a cost function for each possible placement of a given piece and choosing the placement that minimizes the cost.
+For Dr. [Calvin Lin](http://www.cs.utexas.edu/~lin/)'s **Data Structures and Algorithms: Honors** class, I built a simple reflex agent in Java that plays Tetris by computing a cost function for each possible placement of a given piece and choosing the placement that minimizes the cost.
 
 This cost function is defined as a linear combination of features, each of which quantifies a different way the board can be made "bad". Because this project is still used, I won't go into too much detail here about what specific features I used and I can't publish my code.
 
