@@ -1,3 +1,20 @@
+- name: Dallas, can you?
+  id: dallascanyou
+  date: December 2014
+  image: projects_hero_dark.png
+  technologies:
+    - Python
+    - Flask
+    - MongoDB
+    - Facebook Graph API
+    - Twilio
+    - HTML
+    - CSS
+    - JavaScript
+    - jQuery
+    - Heroku
+  unpublished: true
+
 - name: PolyDrop
   id: polydrop
   date: Spring 2014
