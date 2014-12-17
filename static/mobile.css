@@ -93,6 +93,7 @@
 
 .chunk h2.title {
 	font-size: 4em;
+	top: -12px;
 }
 
 .chunk img {
