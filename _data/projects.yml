@@ -13,7 +13,7 @@
     - JavaScript
     - jQuery
     - Heroku
-  unpublished: true
+  unpublished: false
 
 - name: PolyDrop
   id: polydrop
