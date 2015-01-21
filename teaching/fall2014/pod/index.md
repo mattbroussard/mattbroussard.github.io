@@ -7,6 +7,10 @@ headerTitleLink: /teaching
 
 ## Fall 2014 CS First-Year Pod ("CNS 101")
 
+### Spring 2015 Update
+
+If anyone from the class still looks at this page (?), please fill out this [form](https://docs.google.com/forms/d/1wO09yAEXaQvNXVik5CT8qv6GVk87J4eTnHw-Kbr4t20/viewform?usp=send_form) if you're interested in hearing about optional spring meetings.
+
 ### Welcome
 
 Our Pod/CNS101 will be a small group of first-year Turing Scholars students. I can't wait to meet you! In the meantime, you can read about the program [here](https://www.cs.utexas.edu/undergraduate-program/student-engagement-and-support/360-connections/cns-101).
