@@ -279,6 +279,37 @@ a, a:visited {
 
 .slidesjs-pagination { display: none; }
 
+.video_container {
+	position: relative;
+}
+
+.video_play_button {
+	width: 150px;
+	height: 150px;
+	background-color: #ddd;
+	border: 0px none;
+	outline: none;
+	border-radius: 75px;
+	position: absolute;
+	top: 50%;
+	left: 50%;
+	margin-left: -75px;
+	margin-top: -75px;
+	font-size: 0;
+	opacity: 0.9;
+}
+
+.video_play_button:after {
+	content: '\F04B';
+	font-family: FontAwesome;
+	font-size: 75px;
+	text-align: center;
+	line-height: 100px;
+	position: relative;
+	left: 7px;
+	color: #777;
+}
+
 h1 span.subhead { color: #bdc3c7; }
 
 #github_promo { text-align: right; }

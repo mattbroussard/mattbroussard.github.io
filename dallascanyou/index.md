@@ -5,6 +5,7 @@ slideshow:
  - html5: dallascanyou_demo2.mp4
    format: video/mp4
    thumbnail: thumbnail_dark.jpg
+   autoplay: true
 links:
  - title: Live Service
    url: http://dallascanyou.com/

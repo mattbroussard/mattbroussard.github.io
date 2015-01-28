@@ -5,6 +5,7 @@ slideshow:
  - html5: tetris1.mp4
    format: video/mp4
    thumbnail: projects_hero.png
+   autoplay: true
 ---
 
 ## About
