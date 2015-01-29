@@ -9,7 +9,7 @@ slideshow:
  - image: screencap5.png
  - youtube: O-H76X0HroY
 links:
- - title: Download on Leap Motion App Store
+ - title: Download on Airspace
    url: https://airspace.leapmotion.com/apps/polydrop/
  - title: Source on GitHub
    url: https://github.com/mattbroussard/polydrop-game
