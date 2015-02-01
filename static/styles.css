@@ -387,8 +387,8 @@ h1 span.subhead { color: #bdc3c7; }
 }
 
 #contact .message {
-    padding-left: 210px;
-    padding-right: 10px;
+    padding-left: 205px;
+    padding-right: 5px;
     font-size: 85%; /* needed for longer 2016 message */
 }
 
