@@ -15,7 +15,7 @@ body.homepage, #header {
 	-webkit-user-select: none;
 }
 
-/* mattb.name is hosted on tumblr, but we don't want the tumblr controls to show up */
+/* mattb.io is hosted on tumblr, but we don't want the tumblr controls to show up */
 iframe#tumblr_controls, iframe#teaser_iframe {
 	display: none !important;
 	visibility: hidden !important;

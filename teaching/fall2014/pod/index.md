@@ -20,9 +20,9 @@ Meets **Tuesdays, 4-5pm in [GDC](http://www.utexas.edu/maps/main/buildings/gdc.h
 
 ### Communications
 
-Please also fill out the [Google Form](http://mattb.name/podform) so we can get some basic info about you.
+Please also fill out the [Google Form](http://mattb.io/podform) so we can get some basic info about you.
 
-Feel free to [email](http://mattb.name/contact) or Facebook message me anytime with questions or concerns. You can also contact our CNS Lead Facilitator, [Chelsea Weitekamp](mailto:chelseaweitekamp@gmail.com).
+Feel free to [email](http://mattb.io/contact) or Facebook message me anytime with questions or concerns. You can also contact our CNS Lead Facilitator, [Chelsea Weitekamp](mailto:chelseaweitekamp@gmail.com).
 
 <!--
 

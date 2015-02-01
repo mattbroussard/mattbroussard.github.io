@@ -19,7 +19,7 @@ links:
 
 PolyDrop is a simple and addicting game of catch designed to be played with a [Leap Motion Controller](http://www.leapmotion.com/).
 
-It was created by [Matt Broussard](http://mattb.name/), [Josh Kelle](http://joshkelle.com/), and [Dallas Kelle](http://dallaskelle.com/) at a hackathon sponsored by [Leap Motion](http://www.leapmotion.com/) and Compare Metrics (now rebranded as [Edgecase](http://edgecase.io/)) in February 2014 at Capital Factory in Austin, TX. After being selected as a finalist and ultimately winning the grand prize, we continued development of the game and were invited to bring PolyDrop to Airspace. As of December 2014, it has been downloaded over 32,000 times.
+It was created by [Matt Broussard](http://mattb.io/), [Josh Kelle](http://joshkelle.com/), and [Dallas Kelle](http://dallaskelle.com/) at a hackathon sponsored by [Leap Motion](http://www.leapmotion.com/) and Compare Metrics (now rebranded as [Edgecase](http://edgecase.io/)) in February 2014 at Capital Factory in Austin, TX. After being selected as a finalist and ultimately winning the grand prize, we continued development of the game and were invited to bring PolyDrop to Airspace. As of December 2014, it has been downloaded over 32,000 times.
 
 ## How to Play
 

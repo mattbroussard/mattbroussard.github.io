@@ -71,4 +71,4 @@ Our demonstrations were highlighted in several press features:
 
 ## Support
 
-If you have questions or comments, please feel free to [contact me](http://mattb.name/contact).
+If you have questions or comments, please feel free to [contact me](http://mattb.io/contact).
