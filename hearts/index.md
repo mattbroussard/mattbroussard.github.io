@@ -2,7 +2,7 @@
 layout: project
 title: Hearts
 slideshow:
- - image: projects_hero.png
+ - image: projects_hero_progressive.jpg
 links:
  - title: Source on GitHub
    url: https://github.com/mattbroussard/hearts

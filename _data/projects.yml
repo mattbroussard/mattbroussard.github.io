@@ -1,7 +1,7 @@
 - name: Dallas, can you?
   id: dallascanyou
   date: December 2014
-  image: projects_hero_dark.png
+  image: projects_hero_dark_progressive.jpg
   technologies:
     - Python
     - Flask
@@ -18,7 +18,7 @@
 - name: PolyDrop
   id: polydrop
   date: Spring 2014
-  image: projects_hero.png
+  image: projects_hero_progressive.jpg
   technologies:
     - Java
     - Box2D
@@ -28,7 +28,7 @@
   id: gdc_touch
   date: Spring 2014
   subdate: Started March 2013
-  image: hallway_pic.jpg
+  image: hallway_pic_progressive.jpg
   technologies:
     - HTML 5
     - CSS 3
@@ -42,7 +42,7 @@
   id: quadcopter
   date: Spring 2014
   subdate: Started Fall 2013
-  image: projects_hero.png
+  image: projects_hero_progressive.jpg
   technologies:
     - C++
     - ROS
@@ -54,14 +54,14 @@
 - name: Tetris AI
   id: tetris
   date: Fall 2012
-  image: projects_hero.png
+  image: projects_hero_progressive.jpg
   technologies:
     - Java
 
 - name: Hearts
   id: hearts
   date: Spring 2011
-  image: projects_hero.png
+  image: projects_hero_progressive.jpg
   technologies:
     - Java
     - Java Swing

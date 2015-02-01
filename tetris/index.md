@@ -4,7 +4,7 @@ title: Tetris AI
 slideshow:
  - html5: tetris1.mp4
    format: video/mp4
-   thumbnail: projects_hero.png
+   thumbnail: projects_hero_progressive.jpg
    autoplay: true
 ---
 

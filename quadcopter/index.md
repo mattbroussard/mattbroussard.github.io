@@ -2,7 +2,7 @@
 layout: project
 title: GDC Quadcopter Demos
 slideshow:
- - image: projects_hero.png
+ - image: projects_hero_progressive.jpg
  - youtube: 9EKgDr_dh-8
 links:
  - title: Source on GitHub
