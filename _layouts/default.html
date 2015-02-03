@@ -11,6 +11,10 @@
 	<meta http-equiv="Content-Type" content="text/html; charset=utf-8" />
 	{% if page.viewport %}
 		<meta name="viewport" content="width={{ page.viewport }}, user-scalable=no" />
+		<script type="text/javascript">
+			window.tabletViewportWidth = {% if page.tablet_viewport %}{{ page.tablet_viewport }}{% else %}{{ page.viewport }}{% endif %};
+		</script>
+		<script src="/static/viewport.js" type="text/javascript"></script>
 	{% endif %}
 	<link rel="icon" href="/static/favicon.ico" />
 	<link href="http://netdna.bootstrapcdn.com/font-awesome/4.0.3/css/font-awesome.css" rel="stylesheet" />
