@@ -283,6 +283,10 @@ a, a:visited {
 	position: relative;
 }
 
+.video_container video::-webkit-media-controls {
+	display: none; /* we draw our own controls with JS */
+}
+
 .video_play_button {
 	width: 150px;
 	height: 150px;

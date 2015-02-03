@@ -28,12 +28,6 @@ $(function() {
 	};
 
 	$("video").each(function() {
-		
-		// In iOS, we don't do this because iOS has its own play button.
-		var iOS = ["iPhone", "iPad", "iPod", "iOS"];
-		for (var i = 0; i < iOS.length; ++i) {
-			if (window.navigator.userAgent.indexOf(iOS[i]) >= 0) return;
-		}
 
 		var parent = $(this).parent();
 		if (!parent.hasClass("video_container")) return;
