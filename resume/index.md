@@ -1,4 +1,4 @@
 ---
 layout: redirect
-redirect: http://mattb.io/resume
+redirect: MattBroussard_resume_02022015.pdf
 ---
