@@ -3,7 +3,9 @@ layout: project
 title: Raytracer
 slideshow:
  - image: projects_hero_progressive.jpg
+ - image: teapot_progressive.jpg
  - image: patio_progressive.jpg
+ - image: easy3a_progressive.jpg
  - image: sphere_progressive.jpg
  - image: sphere_refract_progressive.jpg
 ---
