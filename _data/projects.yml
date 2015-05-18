@@ -1,3 +1,12 @@
+- name: Raytracer
+  id: raytracer
+  date: Spring 2015
+  image: projects_hero_progressive.jpg
+  technologies:
+    - C++
+    - OpenGL
+    - FLTK
+
 - name: Dallas, can you?
   id: dallascanyou
   date: December 2014
