@@ -80,6 +80,10 @@
 	font-size: 250%;
 }
 
+.slideshow img, .slideshow video {
+	border-radius: 0;
+}
+
 /* projects page */
 
 .chunk .description {
