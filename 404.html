@@ -9,3 +9,9 @@ title: 404 Not Found
 		Maybe you can find it from the <a href="http://mattb.io/">homepage</a>?
 	</div>
 </div>
+<script type="text/javascript">
+	// if they got here via a stale resume link, redirect to the most current one.
+	if (window.location.pathname.indexOf("/resume/") >= 0) {
+		window.location = "/resume/";
+	}
+</script>
