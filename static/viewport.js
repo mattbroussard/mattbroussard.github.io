@@ -10,22 +10,15 @@
 	// that's appropriate only for the mobile layout (too narrow for the
 	// desktop layout).
 
-	// This script:
-	//
-	//   1. Changes the viewport at load time if the mobile media query fails
-	//      to one more appropriate for tablets. Currently, this is specified
-	//      by the Jekyll template and passed down as a JS variable.
-	//
-	//   2. Re-enables user scaling at load time if the mobile media query
-	//      fails since zooming is useful when viewing the desktop layout on a
-	//      a tablet.
+	// This script changes the viewport at load time if the mobile media query
+	// fails to one more appropriate for tablets. Currently, this is specified
+	// by the Jekyll template and passed down as a JS variable.
 
 	var query = "screen and (max-device-width: 480px)";
 	if (window.matchMedia && window.matchMedia(query).matches) return;
-	if (!window.tabletViewportWidth) return;
+	if (!window.tabletViewport) return;
 
-	var viewport = "width="+window.tabletViewportWidth+", user-scalable=yes";
 	var meta = document.querySelector("meta[name=viewport]");
-	if (meta) meta.setAttribute("content", viewport);
+	if (meta) meta.setAttribute("content", window.tabletViewport);
 
 })();
