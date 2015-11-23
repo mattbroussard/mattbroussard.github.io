@@ -8,7 +8,7 @@ slideshow:
    autoplay: true
 links:
  - title: Live Service
-   url: http://dallascanyou.com/
+   url: http://dallascanyou.herokuapp.com
  - title: Source on GitHub
    url: https://github.com/mattbroussard/dallascanyou
 ---
