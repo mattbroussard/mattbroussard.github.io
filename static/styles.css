@@ -16,7 +16,7 @@ body.homepage, #header {
 }
 
 /* mattb.io is hosted on tumblr, but we don't want the tumblr controls to show up */
-iframe#tumblr_controls, iframe#teaser_iframe {
+iframe#tumblr_controls, iframe#teaser_iframe, iframe.tmblr-iframe {
 	display: none !important;
 	visibility: hidden !important;
 	position: absolute !important;
