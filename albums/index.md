@@ -16,7 +16,7 @@ I primarily think of music in terms of albums, but Spotify's options for library
 
 So I made this: a static, single-page webapp that uses the Spotify API to display the albums represented in a playlist. It provides a different view into the existing organizational structures provided by Spotify. Albums are shown in the order they are represented in each playlist. When you click on one, it opens the album in the Spotify app.
 
-Built in my spare time over several weekends, I used this project to learn more about TypeScript, React, Redux, and CSS3 Flexbox, as well as modern JavaScript tooling including including NPM and Webpack.
+Built in my spare time over several weekends, I used this project to learn more about TypeScript, React, Redux, and CSS3 Flexbox, as well as modern JavaScript tooling including NPM and Webpack.
 
 ## Features
 
