@@ -2,30 +2,47 @@
 <html>
 <!--
 	Designed and developed by Matt Broussard.
-	Pages generated with Jekyll on {{ site.time | date_to_string }}.
+	Pages generated with Jekyll {{ jekyll.version }} on {{ site.time | date_to_string }}.
 	See template source here: https://github.com/mattbroussard/mattbroussard.github.io
 
 	Template code is licensed under a Creative Commons Attribution-NonCommercial 4.0 International License (http://creativecommons.org/licenses/by-nc/4.0/).
 	If you make use of it in some way, attribution is REQUIRED and I'd appreciate if you'd also tell me about it (http://mattb.io/contact).
 
-	The text, images, and video on this site, unless otherwise noted, are Copyright 2015 Matt Broussard.
+	The text, images, and video on this site, unless otherwise noted, are Copyright {{ site.time | date: '%Y' }} Matt Broussard.
 -->
 <head>
 	<title>{% if page.title %}{{ page.title }} | {% endif %}{{ site.name }}</title>
 	<meta name="robots" content="noindex, nofollow" />
 	<meta http-equiv="Content-Type" content="text/html; charset=utf-8" />
+
 	{% if page.viewport %}
 		<meta name="viewport" content="{{ page.viewport }}" />
 		<script type="text/javascript">
 			window.tabletViewport = "{% if page.tablet_viewport %}{{ page.tablet_viewport }}{% endif %}";
 		</script>
 		<script src="/static/viewport.js" type="text/javascript"></script>
+	{% elsif layout.viewport %}
+		<meta name="viewport" content="{{ layout.viewport }}" />
+		<script type="text/javascript">
+			window.tabletViewport = "{% if layout.tablet_viewport %}{{ layout.tablet_viewport }}{% endif %}";
+		</script>
+		<script src="/static/viewport.js" type="text/javascript"></script>
 	{% endif %}
+
 	<link rel="icon" href="/static/favicon.ico" />
 	<link href="http://netdna.bootstrapcdn.com/font-awesome/4.0.3/css/font-awesome.css" rel="stylesheet" />
 	<link href="http://fonts.googleapis.com/css?family=EB+Garamond" rel="stylesheet" type="text/css" />
 	<link href="/static/styles.css" rel="stylesheet" type="text/css" />
 	<link href="/static/mobile.css" rel="stylesheet" media="screen and (max-device-width: 480px)" type="text/css" />
+
+	{% for key in layout.javascript %}
+		{% assign path = site.data.javascript[key] %}
+		{% if path contains 'http' %}
+			<script src="{{ path }}" type="text/javascript"></script>
+		{% else %}
+			<script src="/static/{{ path }}" type="text/javascript"></script>
+		{% endif %}
+	{% endfor %}
 	{% for key in page.javascript %}
 		{% assign path = site.data.javascript[key] %}
 		{% if path contains 'http' %}
@@ -34,8 +51,9 @@
 			<script src="/static/{{ path }}" type="text/javascript"></script>
 		{% endif %}
 	{% endfor %}
+
 </head>
-<body{% if page.bodyclass %} class="{{ page.bodyclass }}"{% endif %}>
+<body class="{% if layout.bodyclass %}{{ layout.bodyclass }}{% endif %} {% if page.bodyclass %}{{ page.bodyclass }}{% endif %}">
 	<div id="wrapper">
 		{{ content }}
 	</div>

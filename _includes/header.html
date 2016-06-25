@@ -1,11 +1,11 @@
 <div id="header">
 	<h1>
-		<a href="http://mattb.io/">Matt Broussard</a>{% if page.headerTitle %}<span class="subhead_wrapper">:
-			{% if page.headerTitleLink %}<a href="{{ page.headerTitleLink }}">{% endif %}
+		<a href="http://mattb.io/">Matt Broussard</a>{% if layout.headerTitle %}<span class="subhead_wrapper">:
+			{% if layout.headerTitleLink %}<a href="{{ layout.headerTitleLink }}">{% endif %}
 				<span class="subhead">
-					{{ page.headerTitle }}
+					{{ layout.headerTitle }}
 				</span>
-			{% if page.headerTitleLink %}</a>{% endif %}
+			{% if layout.headerTitleLink %}</a>{% endif %}
 		</span>{% endif %}
 	</h1>
 	{% include buttons.html %}
