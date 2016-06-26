@@ -1,4 +1,4 @@
 ---
 layout: redirect
-redirect: MattBroussard_resume_01022016.pdf
+redirect: MattBroussard_resume_06252016.pdf
 ---
