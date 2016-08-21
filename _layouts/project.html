@@ -22,7 +22,7 @@ javascript:
 <div class="slideshow">
 {% for slide in page.slideshow %}
 	{% if slide.image %}<img src="{{ slide.image }}" />{% endif %}
-	{% if slide.youtube % }<iframe width="780" height="400" src="https://www.youtube.com/embed/{{ slide.youtube }}" frameborder="0" allowfullscreen></iframe>{% endif %}
+	{% if slide.youtube %}<iframe width="780" height="400" src="https://www.youtube.com/embed/{{ slide.youtube }}" frameborder="0" allowfullscreen></iframe>{% endif %}
 	{% if slide.html5 %}<div class="video_container"><video width="780" height="400" {% if slide.thumbnail %}poster="{{ slide.thumbnail }}" {% endif %}{% if slide.autoplay %} class="autoplay" autoplay="true" loop{% endif %}><source src="{{ slide.html5 }}"{% if slide.format%} type="{{ slide.format }}"{% endif %}></video></div>{% endif %}
 {% endfor %}
 </div>
