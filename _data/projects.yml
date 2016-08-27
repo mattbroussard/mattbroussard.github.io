@@ -19,6 +19,18 @@
     - OpenGL
     - FLTK
 
+- name: Where's My Stop?
+  id: wheresmystop
+  date: Spring 2015
+  image: projects_hero.jpg
+  technologies:
+    - Objective-C
+    - iOS
+    - Core Data
+    - Core Location
+    - MapKit
+    - GTFS
+
 - name: Dallas, can you?
   id: dallascanyou
   date: December 2014
