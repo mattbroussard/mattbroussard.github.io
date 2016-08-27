@@ -11,7 +11,7 @@ links:
 
 ## About
 
-This project was born of [Robert Lynch](http://www.rmlynch.net/)'s and my work in the Autonomous Intelligent Robotics [Freshman Research Initiative](http://cns.utexas.edu/fri) (FRI) stream at UT as an introductory foray with the long term goal of developing autonomous airborne systems for the Building Wide Intelligence (BWI) project, which aims to give the [Gates-Dell Computer Science Complex](http://www.cs.utexas.edu/about-us/new-building) (GDC) a coherent intelligent presence consisting of touchscreens and robots.
+This project was born of [Robert Lynch](http://robertlyn.ch/)'s and my work in the Autonomous Intelligent Robotics [Freshman Research Initiative](http://cns.utexas.edu/fri) (FRI) stream at UT as an introductory foray with the long term goal of developing autonomous airborne systems for the Building Wide Intelligence (BWI) project, which aims to give the [Gates-Dell Computer Science Complex](http://www.cs.utexas.edu/about-us/new-building) (GDC) a coherent intelligent presence consisting of touchscreens and robots.
 
 We used the existing [ardrone_autonomy](https://github.com/AutonomyLab/ardrone_autonomy) open source [ROS](http://www.ros.org/) wrapper to build human and autonomous control interfaces for the Parrot AR.Drone 2.0 quadcopter (though our code could be easily adapted to another platform). We developed four different control methods, which could be switched between using a button on the wiimote. We also developed a simple webpage using [rosbridge](https://github.com/RobotWebTools/rosbridge_suite) to display information onscreen about which control method was in use and how much battery was remaining on the quadcopter.
 
