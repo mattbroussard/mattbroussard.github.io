@@ -437,3 +437,16 @@ body.homepage { overflow-y: hidden; }
 	display: none !important;
 	visibility: hidden !important;
 }
+
+/* Ugh, tumblr. */
+.sticky-lrec-wrapper, .sticky-darla-ad, .ad-header, .ad-wrapper, .ad-footer {
+  display: none !important;
+  visibility: hidden !important;
+  width: 0 !important;
+  height: 0 !important;
+  opacity: 0 !important;
+  position: absolute !important;
+  top: -10000px !important;
+  left: -10000px !important;
+}
+
